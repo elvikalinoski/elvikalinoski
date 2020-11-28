@@ -9,3 +9,5 @@ Principais projetos:
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elvikalinoski)](https://www.linkedin.com/in/elvikalinoski)
+![Alt text](http://www.addictedtoibiza.com/wp-content/uploads/2012/12/example.png)
+
