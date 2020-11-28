@@ -9,5 +9,3 @@ Principais projetos:
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elvikalinoski)](https://www.linkedin.com/in/elvikalinoski)
-![Alt text](https://media-exp1.licdn.com/dms/image/C4D16AQEuoQf2NNNrFQ/profile-displaybackgroundimage-shrink_200_800/0/1606533322522?e=1611792000&v=beta&t=UshrA929NXIVYepUNBK3mcoUHSmxQ5Spnj8vUXxOTn8)
-
