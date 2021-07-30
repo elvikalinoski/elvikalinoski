@@ -1,11 +1,29 @@
-# Elvi Kalinoski
+# Olá, sou o Elvi Kalinoski
+
+E seja bem vindo ao meu repositório no Github.
+Utilizo este repositório para guardar e compartilhar o que estou apreendendo ou caso seja útil para alguém.
+Caso tenha alguma dúvida me mande um e-mail, ficarei feliz em contribuir. 
+
+<div> 
+    <a href = "mailto:elvi.kalinoski@gmail.com"><img src="https://img.shields.io/badge/gmail-elvi.kalinoski@gmail.com-red?style=for-the-badge&logo=gmail" target="_blank">
+    </a>
+</div>
+
+## Do que eu gosto?
+
+* DevOps/SRE
+* Linux, DEBIAN minha distro preferida.
+* Docker
+* Kubernetes
+* Rancher
+* Rundeck
+* Helm
 
 <p style='text-align: justify;'>
-Profissional que busca aperfeiçoamento constante, dedicado, comprometido e resiliente. Vasta experiência com Sistema Operacional Linux, onde participei inclusive do desenvolvimento de um versão baseado no Debian voltado às necessidades da companhia, visando segurança, desempenho e escalabilidade. Experiência como consultor técnico, atividades de documentação, treinamento técnico da aplicação para colaboradores e clientes. Homologação de peças para fabricação de produtos, gerenciamento de projetos Inspeção de produtos para auditoria iso 9001 Calibração e verificação de instrumentos
-Principais projetos:
 
-* Sistema linux utilizado em terminais de autoatendimento realizando vendas em dinheiro, cartões de crédito e débito.
-* Painéis de trânsito utilizando protocolo NTCIP, conexões via 3G/4G, VPN e fibra.
 </p>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elvikalinoski)](https://www.linkedin.com/in/elvikalinoski)
+## Social
+<div > 
+    <a href = "https://www.linkedin.com/in/elvikalinosk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+</div>
