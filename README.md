@@ -6,13 +6,12 @@ Utilizo este repositório para guardar e compartilhar o que estou apreendendo ou
 Caso tenha alguma dúvida envia uma mensagem por e-mail ou pelo linkdin, ficarei feliz em contribuir. 
 </div>
 
----
 
 <h2 align="left">O que faço?</h2>
 
 <div>DevOps | SRE | Analista de infraestrutura</div>
 
----
+
 
 <h2 align="left">Do que eu gosto?</h2>
 
@@ -32,7 +31,6 @@ Caso tenha alguma dúvida envia uma mensagem por e-mail ou pelo linkdin, ficarei
 
 </div>
 
----
 
 <h2 align="left">Fale comigo.</h2>
 
@@ -43,7 +41,6 @@ Caso tenha alguma dúvida envia uma mensagem por e-mail ou pelo linkdin, ficarei
     </a>
 </div>
 
----
 <h2 align="left">O que tenho para melhorar.</h2>
 
 <div align="center">
