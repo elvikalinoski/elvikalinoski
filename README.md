@@ -6,15 +6,10 @@ Utilizo este repositório para guardar e compartilhar o que estou apreendendo ou
 Caso tenha alguma dúvida envia uma mensagem por e-mail ou pelo linkdin, ficarei feliz em contribuir. 
 </div>
 
----
-
 <h2 align="left">O que faço?</h2>
-
 <div>DevOps | SRE | Analista de infraestrutura</div>
 
----
-
-<h2 align="left">Do que eu gosto?</h2>
+<h2 align="left">Algumas das stacks que mais gosto, pelo menos no momento."</h2>
 
 <div>
     <a href="https://www.debian.org/"><image src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" target="_blank">
@@ -32,21 +27,18 @@ Caso tenha alguma dúvida envia uma mensagem por e-mail ou pelo linkdin, ficarei
 
 </div>
 
----
-
 <h2 align="left">Fale comigo.</h2>
 
-<div > 
+<div> 
     <a href="mailto:elvi.kalinoski@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
     <a href="https://www.linkedin.com/in/elvikalinoski"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
 </div>
 
----
 <h2 align="left">O que tenho para melhorar.</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvikalinoski&layout=compact&langs_count=6&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elvikalinoski&show_icons=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvikalinoski&layout=compact&hide_title=true&langs_count=6&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elvikalinoski&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" />
 </div>
