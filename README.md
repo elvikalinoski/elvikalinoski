@@ -9,7 +9,7 @@ Caso tenha alguma dúvida envia uma mensagem por e-mail ou pelo linkdin, ficarei
 <h2 align="left">O que faço?</h2>
 <div>DevOps | SRE | Analista de infraestrutura</div>
 
-<h2 align="left">Algumas das stacks que mais gosto, pelo menos no momento."</h2>
+<h2 align="left">Algumas das stacks que mais gosto, pelo menos no momento.</h2>
 <div>
     <a href="https://www.debian.org/"><image src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" target="_blank">
     <a href="https://www.linux.org/"><image src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank">
