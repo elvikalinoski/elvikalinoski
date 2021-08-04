@@ -38,6 +38,6 @@ Caso tenha alguma dúvida envia uma mensagem por e-mail ou pelo linkdin, ficarei
 <h2 align="left">O que tenho para melhorar.</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvikalinoski&layout=compact&hide_title=true&langs_count=6&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvikalinoski&layout=compact&hide_title=true&langs_count=9&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elvikalinoski&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" />
 </div>
