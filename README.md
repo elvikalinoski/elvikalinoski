@@ -23,6 +23,7 @@ Caso tenha alguma dúvida envia uma mensagem por e-mail ou pelo linkdin, ficarei
     <a href="https://cloud.google.com/"><image src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank">
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/"><image src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
     <a href="https://bitbucket.org/"><image src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank"></a>
+    <a href="http://www.haproxy.org/"><image src="https://img.shields.io/badge/haproxy-blue?style=for-the-badge&logo=haproxy&logoColor=white" target="_blank"></a>
 
 </div>
 
